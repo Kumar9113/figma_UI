@@ -1,0 +1,36 @@
+.Navbar
+{
+    padding: 39px 38px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    height: 51px;
+    align-items: center;
+}
+.Logo
+{
+    width: 51px;
+    height: 51px;
+    background-color: #2271EB;
+    border-radius: 50%;
+    align-items: center;
+    text-align: center;
+}
+
+.NavLink
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+li{
+    text-align: center;
+    margin-left:51px;
+    list-style-type: none;
+    white-space:nowrap;
+}
+.icon
+{
+    align-items: center;
+    text-align: center;
+}
